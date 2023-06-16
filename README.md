@@ -5,6 +5,8 @@ This study uses Sentiment Analysis to study people's attitudes toward this socia
 
 You can find the PowerPoint presentation for this work here: [Sentiment_Analysis.pdf](./Sentiment_Analysis.pdf)
 
+***
+
 The study has been conducted in several steps, each of them documented in a related notebook:
 - [Preprocessing](./sentiment_analysis_preprocessing.ipynb): Text data in general (and on Twitter even more) are noisy. This noise, if not handled properly, will lead to low performance for our models. Here we will clean and tokenize our data in the best possible way to achieve better results.
 - [Data Analysis](./sentiment_analysis_dataanalysis.ipynb): Once we preprocessed our data, we want to get an idea of how our data is done. We will plot Wordclouds, class distributions and boxplots in order to extract relevant information.
